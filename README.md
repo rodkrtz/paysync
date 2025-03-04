@@ -1,1 +1,1 @@
-Executar o arquivo build-and-run.sh para executar a aplicação.
+Executar o arquivo build-and-run.sh para rodar a aplicação.
